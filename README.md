@@ -4,7 +4,8 @@
 ## Usage
 
 The shortcode of this plugin is **[daynightc]**, you have **5** possible parameters.<br>
-You can add a class, width, height, a night image and a day image.
+You can add a class, width, height, a night image and a day image.<br>
+The settings page is under the Administration category.
 
 
 Attr | Function
