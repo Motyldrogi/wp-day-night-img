@@ -1,0 +1,42 @@
+.form-table th {
+  padding-left: 10px;
+}
+
+.form-table {
+  background: #fff;
+  border-left: 4px solid #0085ba;
+}
+
+#danic_wrap p {
+  background: #eee;
+  padding: 15px;
+  border-left: 4px solid #0085ba;
+}
+
+#danic_head {
+  background: #fff;
+  border-left: 4px solid #0085ba;
+  padding: 15px;
+}
+
+#danic_options h1 {
+  background: #fff;
+  height: 20px;
+  padding: 15px;
+  border-left: 4px solid;
+}
+
+#danic_options h1, h3, p, label {
+  font-weight: 300;
+}
+
+.danic_error {
+  border-left: 4px solid #ff0000 !important;
+  color: #ff0000;
+}
+
+#danic_current {
+  border-left: 4px solid #0073aa;
+  background: #eee;
+  padding: 15px;
+}
